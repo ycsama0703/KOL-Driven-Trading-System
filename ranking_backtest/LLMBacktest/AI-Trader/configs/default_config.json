@@ -1,0 +1,54 @@
+{
+  "agent_type": "BaseAgent",
+  "market": "us",
+  "date_range": {
+    "init_date": "2024-10-01",
+    "end_date": "2024-12-31"
+  },
+  "symbols": "/home/yuan/AI-Trader/symbols.csv",
+  "models": [
+    {
+      "name": "claude-3.7-sonnet",
+      "basemodel": "anthropic/claude-3.7-sonnet", 
+      "signature": "claude-3.7-sonnet",
+      "enabled": false,
+      "openai_base_url": "Optional: YOUR_OPENAI_BASE_URL,you can write them in .env file",
+      "openai_api_key": "Optional: YOUR_OPENAI_API_KEY,you can write them in .env file" 
+    },
+    {
+      "name": "deepseek-chat",
+      "basemodel": "deepseek-chat",
+      "signature": "deepseek-chat",
+      "enabled": false
+    },
+    {
+      "name": "qwen3-max",
+      "basemodel": "qwen/qwen3-max",
+      "signature": "qwen3-max",
+      "enabled": false
+    },
+    {
+      "name": "gemini-2.5-flash",
+      "basemodel": "google-ai-studio/gemini-2.5-flash",
+      "signature": "gemini-2.5-flash",
+      "enabled": true
+    },
+    {
+      "name": "gpt-5-nano-v1",
+      "basemodel": "gpt-5-nano",
+      "signature": "gpt-5-nano-v1",
+      "enabled": false
+    }
+  ],
+  "agent_config": {
+    "max_steps": 30,
+    "max_retries": 3,
+    "base_delay": 1.0,
+    "initial_cash": 10000.0,
+    "verbose": true
+  },
+  "log_config": {
+    "log_path": "./data/agent_data"
+  }
+}
+

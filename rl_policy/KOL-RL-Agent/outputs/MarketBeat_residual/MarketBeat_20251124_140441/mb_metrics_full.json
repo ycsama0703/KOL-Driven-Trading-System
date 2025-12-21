@@ -1,0 +1,33 @@
+{
+  "baseline": {
+    "cumulative_return": -0.0056817920128146016,
+    "sharpe": -0.21957395287827336,
+    "max_drawdown": 0.059369227824435676,
+    "volatility": 0.008382095209148155,
+    "turnover": 0.31594743589743574
+  },
+  "trained": {
+    "cumulative_return": -0.004229485091209351,
+    "sharpe": -0.17251203478881505,
+    "max_drawdown": 0.05495116080218669,
+    "volatility": 0.007654544448281574,
+    "turnover": 0.2766217948717949,
+    "fidelity_deviation": 0.15384615384615385
+  },
+  "free": {
+    "cumulative_return": 0.0049624302430288925,
+    "sharpe": 0.3561655954326832,
+    "max_drawdown": 0.05104298599248549,
+    "volatility": 0.00682061672418279,
+    "turnover": 0.2692705128205128,
+    "fidelity_deviation": 0.7948717948717948
+  },
+  "spy": {
+    "cumulative_return": 0.017971944003936535,
+    "sharpe": 0.7299792006144786,
+    "max_drawdown": 0.035718278333884204,
+    "volatility": 0.00816407170721919,
+    "turnover": 0.0,
+    "fidelity_deviation": 0.0
+  }
+}

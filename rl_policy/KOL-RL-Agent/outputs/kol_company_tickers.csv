@@ -1,0 +1,319 @@
+kol,company,ticker
+Everything_Money,apple,AAPL
+Everything_Money,abbvie,ABBV
+Everything_Money,airbnb,ABNB
+Everything_Money,adobe,ADBE
+Everything_Money,analog devices,ADI
+Everything_Money,applied materials,AMAT
+Everything_Money,amgen,AMGN
+Everything_Money,amer price financial,AMP
+Everything_Money,arista networks,ANET
+Everything_Money,broadcom,AVGO
+Everything_Money,american express,AXP
+Everything_Money,autozone,AZO
+Everything_Money,boeing,BA
+Everything_Money,the boring company,BA
+Everything_Money,bank of america,BAC
+Everything_Money,biogen,BIIB
+Everything_Money,black rock,BLK
+Everything_Money,blackrock,BLK
+Everything_Money,bristol myers squibb,BMY
+Everything_Money,bristol-myers squibb,BMY
+Everything_Money,berkshire hathaway,BRK.B
+Everything_Money,citigroup,C
+Everything_Money,constellation energy,CEG
+Everything_Money,charter communications,CHTR
+Everything_Money,clorox,CLX
+Everything_Money,comcast,CMCSA
+Everything_Money,cme,CME
+Everything_Money,cme group,CME
+Everything_Money,conocophillips,COP
+Everything_Money,salesforce,CRM
+Everything_Money,crowdstrike,CRWD
+Everything_Money,cisco systems,CSCO
+Everything_Money,incor systems,CSCO
+Everything_Money,cintas,CTAS
+Everything_Money,cintas corporation,CTAS
+Everything_Money,chevron,CVX
+Everything_Money,doordash,DASH
+Everything_Money,dollar general,DG
+Everything_Money,dollar tree,DLTR
+Everything_Money,ebay,EBAY
+Everything_Money,bdo international,EIX
+Everything_Money,epam systems,EPAM
+Everything_Money,fedex,FDX
+Everything_Money,fisker,FI
+Everything_Money,fortinet,FTNT
+Everything_Money,general dynamics,GD
+Everything_Money,general electric,GE
+Everything_Money,generac,GNRC
+Everything_Money,alphabet,GOOG
+Everything_Money,goldman sachs,GS
+Everything_Money,humana healthcare,HCA
+Everything_Money,home depot,HD
+Everything_Money,hp,HPQ
+Everything_Money,hp inc,HPQ
+Everything_Money,hormel foods,HRL
+Everything_Money,windom hotels and resorts,HST
+Everything_Money,hershey corporation,HSY
+Everything_Money,hershey s,HSY
+Everything_Money,humana,HUM
+Everything_Money,howmet aerospace,HWM
+Everything_Money,intel,INTC
+Everything_Money,intel corporation,INTC
+Everything_Money,intuit,INTU
+Everything_Money,invesco,IVZ
+Everything_Money,johnson & johnson,JNJ
+Everything_Money,johnson and johnson,JNJ
+Everything_Money,jpmorgan chase & co,JPM
+Everything_Money,kla corporation,KLAC
+Everything_Money,coca-cola,KO
+Everything_Money,the coca-cola company,KO
+Everything_Money,kroger,KR
+Everything_Money,eli lilly and company,LLY
+Everything_Money,lockheed martin,LMT
+Everything_Money,lamb research,LRCX
+Everything_Money,southwest airlines,LUV
+Everything_Money,mastercard,MA
+Everything_Money,mcdonald s,MCD
+Everything_Money,medtronic,MDT
+Everything_Money,meta platforms,META
+Everything_Money,3m,MMM
+Everything_Money,monster beverage,MNST
+Everything_Money,molina healthcare,MOH
+Everything_Money,marathon petroleum,MPC
+Everything_Money,moderna,MRNA
+Everything_Money,microsoft,MSFT
+Everything_Money,match group,MTCH
+Everything_Money,next era energy,NEE
+Everything_Money,newmont,NEM
+Everything_Money,netflix,NFLX
+Everything_Money,nike,NKE
+Everything_Money,northrop grumman,NOC
+Everything_Money,servicenow,NOW
+Everything_Money,nvidia,NVDA
+Everything_Money,nvr,NVR
+Everything_Money,taiwan semiconductor,ON
+Everything_Money,oracle,ORCL
+Everything_Money,occidental petroleum,OXY
+Everything_Money,palo alto networks,PANW
+Everything_Money,paycom software,PAYC
+Everything_Money,pepsi,PEP
+Everything_Money,pepsico,PEP
+Everything_Money,pfizer,PFE
+Everything_Money,procter & gamble,PG
+Everything_Money,procter and gamble,PG
+Everything_Money,pool corp,POOL
+Everything_Money,paypal,PYPL
+Everything_Money,qualcomm,QCOM
+Everything_Money,starbucks,SBUX
+Everything_Money,charles schwab,SCHW
+Everything_Money,sherwin williams,SHW
+Everything_Money,sherwin-williams,SHW
+Everything_Money,super micro computer,SMCI
+Everything_Money,super micro computers,SMCI
+Everything_Money,at&t,T
+Everything_Money,target,TGT
+Everything_Money,thermo fisher scientific,TMO
+Everything_Money,t-mobile,TMUS
+Everything_Money,t rowe price,TROW
+Everything_Money,tesla,TSLA
+Everything_Money,tyson foods,TSN
+Everything_Money,texas instruments,TXN
+Everything_Money,ulta beauty,ULTA
+Everything_Money,unitedhealth group,UNH
+Everything_Money,visa,V
+Everything_Money,zoom communications,VZ
+Everything_Money,warner brothers discovery,WBD
+Everything_Money,walmart,WMT
+Everything_Money,william sonoma,WSM
+Everything_Money,exxon mobil,XOM
+Everything_Money,block,XYZ
+Invest_with_Henry,apple,AAPL
+Invest_with_Henry,airbnb,ABNB
+Invest_with_Henry,roth capital,ACGL
+Invest_with_Henry,adobe,ADBE
+Invest_with_Henry,broadcom,AVGO
+Invest_with_Henry,bank of america,BAC
+Invest_with_Henry,blackrock,BLK
+Invest_with_Henry,berkshire hathaway,BRK.B
+Invest_with_Henry,caterpillar,CAT
+Invest_with_Henry,conocophillips,COP
+Invest_with_Henry,salesforce,CRM
+Invest_with_Henry,chevron,CVX
+Invest_with_Henry,delta airlines,DAL
+Invest_with_Henry,the walt disney company,DIS
+Invest_with_Henry,general motors,GM
+Invest_with_Henry,alphabet,GOOG
+Invest_with_Henry,goldman sachs,GS
+Invest_with_Henry,home depot,HD
+Invest_with_Henry,hp,HPQ
+Invest_with_Henry,hershey s,HSY
+Invest_with_Henry,intel,INTC
+Invest_with_Henry,johnson & johnson,JNJ
+Invest_with_Henry,johnson and johnson,JNJ
+Invest_with_Henry,jpmorgan chase,JPM
+Invest_with_Henry,kraft heinz,KHC
+Invest_with_Henry,coca-cola,KO
+Invest_with_Henry,mcdonald s,MCD
+Invest_with_Henry,mondelez international,MDLZ
+Invest_with_Henry,meta platforms,META
+Invest_with_Henry,marathon petroleum,MPC
+Invest_with_Henry,morgan stanley,MS
+Invest_with_Henry,microsoft,MSFT
+Invest_with_Henry,match group,MTCH
+Invest_with_Henry,netflix,NFLX
+Invest_with_Henry,nike,NKE
+Invest_with_Henry,northrop grumman,NOC
+Invest_with_Henry,nvidia,NVDA
+Invest_with_Henry,occidental petroleum,OXY
+Invest_with_Henry,pepsico,PEP
+Invest_with_Henry,procter & gamble,PG
+Invest_with_Henry,procter and gamble,PG
+Invest_with_Henry,proctor and gamble,PG
+Invest_with_Henry,palantir technologies,PLTR
+Invest_with_Henry,phillips 66,PSX
+Invest_with_Henry,paypal,PYPL
+Invest_with_Henry,rtx,RTX
+Invest_with_Henry,starbucks,SBUX
+Invest_with_Henry,charles schwab,SCHW
+Invest_with_Henry,schlumberger,SLB
+Invest_with_Henry,super micro computer inc,SMCI
+Invest_with_Henry,at&t,T
+Invest_with_Henry,target,TGT
+Invest_with_Henry,tesla,TSLA
+Invest_with_Henry,tyson foods,TSN
+Invest_with_Henry,texas instruments,TXN
+Invest_with_Henry,unitedhealth group,UNH
+Invest_with_Henry,visa,V
+Invest_with_Henry,katu management,WM
+Invest_with_Henry,williams companies,WMB
+Invest_with_Henry,walmart,WMT
+Invest_with_Henry,exon mobile,XOM
+Invest_with_Henry,exxon mobil,XOM
+Invest_with_Henry,exxon mobile,XOM
+Invest_with_Henry,exxonmobil,XOM
+Invest_with_Henry,ca technologies,ZBRA
+MarketBeat,apple,AAPL
+MarketBeat,abbvie,ABBV
+MarketBeat,airbnb,ABNB
+MarketBeat,abbott laboratories,ABT
+MarketBeat,accenture,ACN
+MarketBeat,adobe,ADBE
+MarketBeat,autodesk,ADSK
+MarketBeat,legion,ALLE
+MarketBeat,applied materials,AMAT
+MarketBeat,advanced micro devices,AMD
+MarketBeat,amgen,AMGN
+MarketBeat,american tower,AMT
+MarketBeat,air products and chemicals,APD
+MarketBeat,broadcom,AVGO
+MarketBeat,boeing,BA
+MarketBeat,bank of america,BAC
+MarketBeat,biogen,BIIB
+MarketBeat,booking holdings,BKNG
+MarketBeat,blackrock,BLK
+MarketBeat,berkshire hathaway,BRK.B
+MarketBeat,cardinal health,CAH
+MarketBeat,caterpillar,CAT
+MarketBeat,chubb,CB
+MarketBeat,cboe global markets,CBOE
+MarketBeat,cavco industries,CF
+MarketBeat,cme group,CME
+MarketBeat,chipotle mexican grill,CMG
+MarketBeat,cummins,CMI
+MarketBeat,salesforce,CRM
+MarketBeat,crowdstrike,CRWD
+MarketBeat,cintas,CTAS
+MarketBeat,chevron,CVX
+MarketBeat,dominion energy,D
+MarketBeat,delta air lines,DAL
+MarketBeat,delta airlines,DAL
+MarketBeat,doordash,DASH
+MarketBeat,evolv technologies,DELL
+MarketBeat,dollar general,DG
+MarketBeat,d r horton,DHI
+MarketBeat,domino s pizza,DPZ
+MarketBeat,darden restaurants,DRI
+MarketBeat,enphase energy,ENPH
+MarketBeat,fisker,FI
+MarketBeat,general dynamics,GD
+MarketBeat,gilead sciences,GILD
+MarketBeat,general motors,GM
+MarketBeat,alphabet,GOOG
+MarketBeat,goldman sachs,GS
+MarketBeat,halliburton,HAL
+MarketBeat,home depot,HD
+MarketBeat,hp,HPQ
+MarketBeat,hershey s,HSY
+MarketBeat,humana,HUM
+MarketBeat,intel,INTC
+MarketBeat,intuitive surgical,ISRG
+MarketBeat,gartner,IT
+MarketBeat,gartner group,IT
+MarketBeat,invesco,IVZ
+MarketBeat,johnson & johnson,JNJ
+MarketBeat,johnson and johnson,JNJ
+MarketBeat,jp morgan chase,JPM
+MarketBeat,keurig dr pepper,KDP
+MarketBeat,coca-cola,KO
+MarketBeat,the coca-cola company,KO
+MarketBeat,kenvue,KVUE
+MarketBeat,amprius technologies,LHX
+MarketBeat,eli lilly and company,LLY
+MarketBeat,lockheed martin,LMT
+MarketBeat,lam research,LRCX
+MarketBeat,southwest airlines,LUV
+MarketBeat,mcdonald,MCD
+MarketBeat,mcdonald s,MCD
+MarketBeat,mcdonald s corporation,MCD
+MarketBeat,meta platforms,META
+MarketBeat,monster beverage,MNST
+MarketBeat,merck & co,MRK
+MarketBeat,morgan stanley,MS
+MarketBeat,microsoft,MSFT
+MarketBeat,micron technology,MU
+MarketBeat,nextera energy,NEE
+MarketBeat,netflix,NFLX
+MarketBeat,nike,NKE
+MarketBeat,northrop grumman,NOC
+MarketBeat,servicenow,NOW
+MarketBeat,nvidia,NVDA
+MarketBeat,nxp semiconductors,NXPI
+MarketBeat,reality income,O
+MarketBeat,oracle,ORCL
+MarketBeat,o reilly automotive,ORLY
+MarketBeat,occidental petroleum,OXY
+MarketBeat,palo alto networks,PANW
+MarketBeat,pepsico,PEP
+MarketBeat,pfizer,PFE
+MarketBeat,proctor and gamble,PG
+MarketBeat,prologis,PLD
+MarketBeat,palantir technologies,PLTR
+MarketBeat,paypal,PYPL
+MarketBeat,qualcomm,QCOM
+MarketBeat,ross stores,ROST
+MarketBeat,republic services,RSG
+MarketBeat,weave communications,SBAC
+MarketBeat,starbucks,SBUX
+MarketBeat,super micro computer,SMCI
+MarketBeat,super micro computers,SMCI
+MarketBeat,at&t,T
+MarketBeat,evolved technologies,TDY
+MarketBeat,target,TGT
+MarketBeat,tko group,TKO
+MarketBeat,t-mobile,TMUS
+MarketBeat,tractor supply,TSCO
+MarketBeat,tesla,TSLA
+MarketBeat,raytheon technologies,TT
+MarketBeat,united airlines,UAL
+MarketBeat,united health group,UNH
+MarketBeat,unitedhealth group,UNH
+MarketBeat,visa,V
+MarketBeat,verizon communications inc,VZ
+MarketBeat,workday,WDAY
+MarketBeat,waste management,WM
+MarketBeat,walmart,WMT
+MarketBeat,william sonoma,WSM
+MarketBeat,williams sonoma,WSM
+MarketBeat,williams-sonoma,WSM
