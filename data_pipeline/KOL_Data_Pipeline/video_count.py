@@ -5,7 +5,7 @@ from typing import Optional
 from googleapiclient.discovery import build
 
 # YouTube Data API key. Update this if you rotate keys.
-API_KEY_YT = "AIzaSyCEMHaMsY1WhDToUh2T-81iEgR4sHbfVXE"
+API_KEY_YT = 
 
 
 def _build_client():
