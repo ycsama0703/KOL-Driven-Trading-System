@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 # --- Config ---
 input_dir = r"C:\Users\Admin\Desktop\DFinTech\FT5007\youtube_kol_outputs"
-API_KEY_GEMINI = "AIzaSyBwJ2b6-sv4ZW3XtoRtv4ipj1ltA0ITpzE"
+API_KEY_GEMINI = 
 gemini_model_name = "gemini-2.5-flash"
 
 # --- Init Gemini ---
