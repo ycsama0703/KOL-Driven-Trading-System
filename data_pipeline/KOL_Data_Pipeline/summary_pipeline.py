@@ -8,8 +8,8 @@ import google.generativeai as genai
 from googleapiclient.discovery import build
 
 # --- API Keys & Config ---
-API_KEY_YT = os.getenv("YOUTUBE_API_KEY", "AIzaSyAKHmHWMk7oumb5tfV4pkNQ-P_lImUE_4Y")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyAKHmHWMk7oumb5tfV4pkNQ-P_lImUE_4Y")
+API_KEY_YT = os.getenv("YOUTUBE_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GEMINI_MODEL = "gemini-2.5-flash"
 
 # 2022-01-01 ~ 2024-12-31
