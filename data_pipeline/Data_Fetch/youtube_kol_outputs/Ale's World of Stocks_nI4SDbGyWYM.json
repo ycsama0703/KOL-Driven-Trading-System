@@ -1,0 +1,230 @@
+[
+  {
+    "company": "BlackRock",
+    "excerpt": "BlackRock Created A Metaverse ETF! so last year black rock created a metaverse ETF just kind of out of nowhere because they're already the world's largest asset management company and the second largest issuer of ETFs with their ey shares ETF division well it just makes perfect sense that they would also want to have an ETF for the metaverse as well as this article from Seeking Alpha points out Black Rock launched the ETF back in early last year was called the ishares future metaverse Tech and Communications ETF the ticker symbol is ivrs I usually just say Iris but uh anyway they Market this as offering exposure to companies both in and outside of the United States that provide both the hardware and the software used for and with within the metaverse now hopping over to the Black Rock website we can see that it carries an expense ratio of less than half a percent which I actually do think is pretty good especially for what this ETF is doing and compared to its peers well black Rock's iverse is not only cheaper than the median of all ETFs in terms of expense ratio but it's also cheaper than these other peers except for Fidelity I can kind of see what Morning Star and black rock is doing here kind of lowering the risk of it you want like passive investing you want to invest in something specific area and you don't want to have to worry about it too much you don't want to have to keep track of everything just kind of let let you know a big company like Black Rock manage it all for you I think that's great I think it's totally fine",
+    "confidence": 1.0,
+    "sentiment": 0.2
+  },
+  {
+    "company": "Seeking Alpha",
+    "excerpt": "as this article from Seeking Alpha points out Black Rock launched the ETF back in early last year",
+    "confidence": 1.0,
+    "sentiment": 0.0
+  },
+  {
+    "company": "Roundhill Ball Metaverse ETF",
+    "excerpt": "for example there's like the MeTV ETF that's the roundhill ball metaverse ETF",
+    "confidence": 1.0,
+    "sentiment": 0.0
+  },
+  {
+    "company": "ProShares Metaverse ETF",
+    "excerpt": "there's also vers uh the pro that's the prar metaverse ETF",
+    "confidence": 1.0,
+    "sentiment": 0.0
+  },
+  {
+    "company": "Fidelity",
+    "excerpt": "and there's fmet the Fidelity metaverse ETF well black Rock's iverse is not only cheaper than the median of all ETFs in terms of expense ratio but it's also cheaper than these other peers except for Fidelity Fidelity's metaverse ETF that one is slightly cheaper",
+    "confidence": 1.0,
+    "sentiment": 0.0
+  },
+  {
+    "company": "Morningstar",
+    "excerpt": "which it looks like this ETF uh happens to track the Morning Star Global metaverse and virtual interaction index which if we hop over to uh to that index well it says that the goal of it is to benefit from metaverse platforms enhance social media immersive gaming 3D rendering and simulation software wearable technology NVR and AR uh as well as digital assets and payments all of that sounds good to me I can kind of see what Morning Star and black rock is doing here kind of lowering the risk of it",
+    "confidence": 1.0,
+    "sentiment": 0.3
+  },
+  {
+    "company": "McKinsey",
+    "excerpt": "In fact analysts at McKenzie think that the market for the metaverse will be worth trillions of dollars over the next decade",
+    "confidence": 1.0,
+    "sentiment": 0.0
+  },
+  {
+    "company": "Meta",
+    "excerpt": "those being meta in the top 10 meta is at number one at over 6% I do agree with that they've been spending probably the most amount of money just like purely on the metaverse alone and of course they also have billions of users on social media that can be targeted for that too and they're very profitable so I have no problem with meta being at the top",
+    "confidence": 1.0,
+    "sentiment": 0.8
+  },
+  {
+    "company": "Crafton",
+    "excerpt": "then also at around 5% they have Crafton and number two I think they're Canadian I might be wrong but they're the gaming company that made pubg it's a really popular game I wouldn't put them at number two though I think that's way too high I'm not sure why that's so high",
+    "confidence": 1.0,
+    "sentiment": -0.2
+  },
+  {
+    "company": "Roblox",
+    "excerpt": "there's also Roblox at number three I know why that's there cuz Roblox is a games platform where users can make other games too so it kind of fits perfectly with that metaverse theme but I would not put them that high myself they probably wouldn't even be in the top five for Me Maybe the top 10 but I'm not even sure about that they're kind of risky with a really expensive valuation and a lot of losses on the bottom line so I'm not the biggest fan of Roblox",
+    "confidence": 1.0,
+    "sentiment": -0.7
+  },
+  {
+    "company": "Sony",
+    "excerpt": "and we have Sony at number four of course that's the company behind play PlayStation which also has the PlayStation VR so it does make sense for a lot of this but it would not be in the top five for me I would actually prefer Microsoft much more who has Xbox",
+    "confidence": 1.0,
+    "sentiment": -0.2
+  },
+  {
+    "company": "Microsoft",
+    "excerpt": "I would actually prefer Microsoft much more who has Xbox even more surprising than that though is that my Microsoft didn't even make the top 10 that is insane to me cuz they have Xbox they spent like 70 billion to acquire Activision Blizzard clearly this ETF this index does care a lot about gaming I mean Microsoft is huge for gaming uh they own windows so basically every PC in the in the world like every computer in the world is is running on their on their platform uh and they also have Azure Cloud I mean a ton of the metaverse is probably going to run on Azure so that's crazy to me to not include Microsoft at in the top 10 especially for how profitable they are how safe the stock is all the other things they do so yeah that's crazy to me and then finally all the way down to number 21 they finally include Microsoft at less than 3% exposure uh they should be so much higher than that I would probably put them like in my top five or top three maybe even at number one Microsoft might even be number one for me I would move those right up to the top I would make some huge balancing changes I would take a bunch of the riskier ones that they have at the top I'd put those at the bottom i'take a lot of the safer ones move them higher",
+    "confidence": 1.0,
+    "sentiment": 0.9
+  },
+  {
+    "company": "Autodesk",
+    "excerpt": "but then Autodesk is at number five they're pretty good they're a world leader in 3D design known for things like AutoCAD and and other stuff like that so that's a pretty good one",
+    "confidence": 1.0,
+    "sentiment": 0.7
+  },
+  {
+    "company": "Electronic Arts",
+    "excerpt": "then at number six we have Electronic Arts that makes sense huge gaming company behind Madden FIFA and more",
+    "confidence": 1.0,
+    "sentiment": 0.6
+  },
+  {
+    "company": "Take Two",
+    "excerpt": "another gamer in uh take two at number seven and I actually own that one myself they make Grand Theft Auto and NBA 2K so a big gaming company",
+    "confidence": 1.0,
+    "sentiment": 0.7
+  },
+  {
+    "company": "PTC",
+    "excerpt": "then PTC at number eight I've actually never heard of them but apparently they're a modeling software company so I guess it makes sense",
+    "confidence": 1.0,
+    "sentiment": 0.1
+  },
+  {
+    "company": "Ansys",
+    "excerpt": "then an at number nine that's a giant 3D design and Engineering uh simulations company so I do agree with that one there",
+    "confidence": 0.9,
+    "sentiment": 0.7
+  },
+  {
+    "company": "Unity",
+    "excerpt": "and then Unity at number 10 that's a giant games engine company it's kind of like the backbone of video games so I also agree with that one too",
+    "confidence": 1.0,
+    "sentiment": 0.7
+  },
+  {
+    "company": "Apple",
+    "excerpt": "Apple doesn't make the cut though it comes in at number 11 which is a little surprising to me cuz you know you think with how many smartphones they sell and even with the new augmented reality headset I know it's a very expensive one but you know they have their own augmented reality headset too so you know I would have thought that they would have been a little higher especially for also how profitable they are how safe this the stock probably is you know I I I thought it would have made the top 10 but it's just under that",
+    "confidence": 1.0,
+    "sentiment": 0.5
+  },
+  {
+    "company": "Garmin",
+    "excerpt": "scrolling down to Apple right after that is Garmin at number 12 they're big uh wearables and GPS company but I wouldn't have them anywhere near this High I think that's a very hard Market to compete in",
+    "confidence": 1.0,
+    "sentiment": -0.6
+  },
+  {
+    "company": "Tencent",
+    "excerpt": "There's also a few Chinese gaming companies but my favorite is by far 10 cents they're the giant Behind fortnite These are Asian companies but uh 10 cent you know they have fortnite they used to be one of the they used to generate like the big biggest uh gaming revenues that's probably been overtaken by Microsoft recently after they acquired Activision but uh they they're huge in gaming but they also do a ton of stuff in AI they do a ton of stuff in cloud computing so I agree with tenson being high up maybe it could even be higher",
+    "confidence": 1.0,
+    "sentiment": 0.8
+  },
+  {
+    "company": "Ubisoft",
+    "excerpt": "anyway Ubisoft uh I believe that's a French gaming company I'm not a big fan of them though",
+    "confidence": 1.0,
+    "sentiment": -0.7
+  },
+  {
+    "company": "Zoom Video",
+    "excerpt": "Zoom video at number 22 that makes sense for business work and education",
+    "confidence": 1.0,
+    "sentiment": 0.2
+  },
+  {
+    "company": "Nvidia",
+    "excerpt": "Nvidia right under them at 23 I would put them way higher than that they'd be like in my top 10 for powering the metaverse with their gpus and even for their work in augmented reality and what they call the Omniverse uh they should be way higher in my opinion I would move those right up to the top I would make some huge balancing changes I would take a bunch of the riskier ones that they have at the top I'd put those at the bottom i'take a lot of the safer ones move them higher",
+    "confidence": 1.0,
+    "sentiment": 0.9
+  },
+  {
+    "company": "Google",
+    "excerpt": "even Google too is not in the top 10 they have a big cloud platform they have Android basically uh it's like more popular than even iPhones like every you know the majority of phones um is actually on Android as opposed to iOS more so on Android so I would have had them in the top 10 too and then Google is right under them at only less than 1 and a half% that's criminal I would for sure put them in my top 10 too I would move those right up to the top I would make some huge balancing changes I would take a bunch of the riskier ones that they have at the top I'd put those at the bottom i'take a lot of the safer ones move them higher",
+    "confidence": 1.0,
+    "sentiment": 0.9
+  },
+  {
+    "company": "Samsung",
+    "excerpt": "then we have Samsung big smartphone maker",
+    "confidence": 1.0,
+    "sentiment": 0.2
+  },
+  {
+    "company": "Adobe",
+    "excerpt": "Adobe huge for Content creation I like them but they only have less than half a percent for that one",
+    "confidence": 1.0,
+    "sentiment": 0.7
+  },
+  {
+    "company": "AMD",
+    "excerpt": "and then all the all the rest of these here are actually less than half a percent too with some more chip stocks like AMD Qualcomm Micron Intel SK hux these are getting very tiny in terms of exposure though",
+    "confidence": 1.0,
+    "sentiment": 0.1
+  },
+  {
+    "company": "Qualcomm",
+    "excerpt": "and then all the all the rest of these here are actually less than half a percent too with some more chip stocks like AMD Qualcomm Micron Intel SK hux these are getting very tiny in terms of exposure though",
+    "confidence": 1.0,
+    "sentiment": 0.1
+  },
+  {
+    "company": "Micron",
+    "excerpt": "and then all the all the rest of these here are actually less than half a percent too with some more chip stocks like AMD Qualcomm Micron Intel SK hux these are getting very tiny in terms of exposure though",
+    "confidence": 1.0,
+    "sentiment": 0.1
+  },
+  {
+    "company": "Intel",
+    "excerpt": "and then all the all the rest of these here are actually less than half a percent too with some more chip stocks like AMD Qualcomm Micron Intel SK hux these are getting very tiny in terms of exposure though",
+    "confidence": 1.0,
+    "sentiment": 0.1
+  },
+  {
+    "company": "SK Hynix",
+    "excerpt": "and then all the all the rest of these here are actually less than half a percent too with some more chip stocks like AMD Qualcomm Micron Intel SK hux these are getting very tiny in terms of exposure though",
+    "confidence": 1.0,
+    "sentiment": 0.1
+  },
+  {
+    "company": "Nintendo",
+    "excerpt": "we have Nintendo one of my all-time favorite gaming companies but they're all the way down to just 0.08% exposure",
+    "confidence": 1.0,
+    "sentiment": 0.8
+  },
+  {
+    "company": "Match Group",
+    "excerpt": "and then we have match group at only 0.02% I actually like them for online dating which could also be really big in the future for the metaverse and I believe they are I believe they own um Tinder and hinge and a few other very popular dating apps so that would be one that would should probably be higher",
+    "confidence": 1.0,
+    "sentiment": 0.8
+  },
+  {
+    "company": "Snapchat",
+    "excerpt": "and then man how the mighty have fallen Snapchat all the way at the very bottom there kind of a disaster of a company that there that just can't really compete anymore with the big dogs like Instagram and Tik Tok and stuff like that so yeah overall I would say that I am not the biggest fan of this list",
+    "confidence": 1.0,
+    "sentiment": -0.9
+  },
+  {
+    "company": "Instagram",
+    "excerpt": "can't really compete anymore with the big dogs like Instagram and Tik Tok and stuff like that",
+    "confidence": 1.0,
+    "sentiment": 0.2
+  },
+  {
+    "company": "TikTok",
+    "excerpt": "can't really compete anymore with the big dogs like Instagram and Tik Tok and stuff like that",
+    "confidence": 1.0,
+    "sentiment": 0.2
+  },
+  {
+    "company": "Activision Blizzard",
+    "excerpt": "they spent like 70 billion to acquire Activision Blizzard clearly this ETF this index does care a lot about gaming they used to generate like the big biggest uh gaming revenues that's probably been overtaken by Microsoft recently after they acquired Activision but uh they they're huge in gaming",
+    "confidence": 1.0,
+    "sentiment": 0.0
+  }
+]

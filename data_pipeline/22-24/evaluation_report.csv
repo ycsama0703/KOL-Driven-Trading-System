@@ -1,0 +1,6 @@
+﻿file,total_rows,videos,missing_required_cells,invalid_numeric,out_of_range_numeric,empty_company,empty_excerpt,empty_title,empty_video_id,duplicate_rows,error
+Ale_s_World_of_Stocks_companies_cleaned.csv,3737,316,0,0,0,0,0,0,0,0,
+Everything_Money_companies_cleaned.csv,150,20,0,0,0,0,0,0,0,0,
+Invest_with_Henry_companies_cleaned.csv,1836,239,0,0,0,0,0,0,0,0,
+MarketBeat_companies_cleaned.csv,1375,320,0,0,0,0,0,0,0,0,
+Tom_Nash_companies_cleaned.csv,2325,381,0,0,0,0,0,0,0,0,

@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Nvidia",
+    "excerpt": "many US stocks are just getting pummeled right now in premarket trading like Nvidia falling almost 14%",
+    "confidence": 1.0,
+    "sentiment": -0.8
+  },
+  {
+    "company": "Sofi",
+    "excerpt": "Sofi down over 11%",
+    "confidence": 1.0,
+    "sentiment": -0.7
+  },
+  {
+    "company": "Palantir",
+    "excerpt": "paler down almost 14%",
+    "confidence": 0.8,
+    "sentiment": -0.8
+  },
+  {
+    "company": "Tesla",
+    "excerpt": "many other Tech giants like Tesla apple and Amazon all falling around 10 10% too",
+    "confidence": 1.0,
+    "sentiment": -0.6
+  },
+  {
+    "company": "Apple",
+    "excerpt": "many other Tech giants like Tesla apple and Amazon all falling around 10 10% too",
+    "confidence": 1.0,
+    "sentiment": -0.6
+  },
+  {
+    "company": "Amazon",
+    "excerpt": "many other Tech giants like Tesla apple and Amazon all falling around 10 10% too... some of my favorite stocks like Amazon Microsoft Google these very well companies they're it's very hard to get low prices on them it's very hard to drag them down so any dips in the market any chances I get to get those prices lower I do see those as buying opportunities... I'm already going to be putting in some buy orders for Google um probably Amazon for sure I'm going to be doing some buying and if things get worse I'm going to buy even more",
+    "confidence": 1.0,
+    "sentiment": 0.7
+  },
+  {
+    "company": "Microsoft",
+    "excerpt": "we even have the mighty Microsoft falling about 5% today in pre-market trading... some of my favorite stocks like Amazon Microsoft Google these very well companies they're it's very hard to get low prices on them it's very hard to drag them down so any dips in the market any chances I get to get those prices lower I do see those as buying opportunities",
+    "confidence": 1.0,
+    "sentiment": 0.7
+  },
+  {
+    "company": "Google",
+    "excerpt": "Google down over 6%... some of my favorite stocks like Amazon Microsoft Google these very well companies they're it's very hard to get low prices on them it's very hard to drag them down so any dips in the market any chances I get to get those prices lower I do see those as buying opportunities... I'm already going to be putting in some buy orders for Google um probably Amazon for sure I'm going to be doing some buying and if things get worse I'm going to buy even more",
+    "confidence": 1.0,
+    "sentiment": 0.7
+  },
+  {
+    "company": "Meta",
+    "excerpt": "then meta is down over 7% too",
+    "confidence": 1.0,
+    "sentiment": -0.6
+  }
+]

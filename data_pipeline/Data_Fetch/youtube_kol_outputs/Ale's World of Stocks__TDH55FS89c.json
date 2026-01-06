@@ -1,0 +1,998 @@
+[
+  {
+    "company": "```json",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "[",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Air Products and Chemicals\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"in order of smallest to largest 6% of the votes went to Air Products and chemicals\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 0.9,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.1",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Broadcom\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"12% went to broadcom. 24% went to broadcom\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.1",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"C3.ai\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"12% went to c3.ai. I also like C3 for what they do in artificial intelligence more risky speculative stock but one that could have potential\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.4",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"PayPal\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"24% went to PayPal. a whopping 40% went to PayPal so we picked up PayPal stock as well pretty good value stock there. another $10 going to each of Bristol Meers squib Nvidia and PayPal. I also like the two new additions of Cisco and PayPal which you guys voted for but uh you know Cisco Great Value dividend stock PayPal also good value stock both have growth potential too in my opinion turnaround potential both stocks have been uh kind of beaten down a bit and so I feel like there were good pickups good values there. in the negative performers I mean we got to buy more metronic there being negative and probably some more of like veras sign and PayPal great like value tech stocks in my opinion\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.8",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Cisco\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"for the win we had 47% of the votes uh going to Cisco so we added that to the portfolio and I love to see that I love Cisco stock. we ended up spending the most money on Amazon by and Cisco at $15 a piece. I also like the two new additions of Cisco and PayPal which you guys voted for but uh you know Cisco Great Value dividend stock PayPal also good value stock both have growth potential too in my opinion turnaround potential both stocks have been uh kind of beaten down a bit and so I feel like there were good pickups good values there and I especially love Cisco right now it's one of my favorite like new dividend stocks that I've been uh looking into and picking up also in my personal private portfolio too. look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well. in the single digits Cisco Verizon those got great dividends love to buy more of those\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 1.0",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"General Motors\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"4% of the votes went to GM. there's also still General Motors I still like them\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.5",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Tencent\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"9% went to 10 cent\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 0.9,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.1",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Intel\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"23% went to Intel. stocks like Intel\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.2",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Amazon\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"43% of the votes went to Amazon as the winner so we bought more of Amazon stock. we ended up spending the most money on Amazon by and Cisco at $15 a piece. I'm just very happy with Google Amazon Microsoft and meta making up the top four Holdings I could really couldn't ask for much of a better group of stocks there to lead the pack I'm glad that those are our four biggest stocks there for sure. especially Amazon and Microsoft with 17% and 12% gains those are our number two and number three largest Holdings so very happy with that performance\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 1.0",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Nvidia\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"24% of the votes went to Nvidia for the just a slight win they're just barely ahead of Google paler and Tesla. another $10 going to each of Bristol Meers squib Nvidia and PayPal. by the way Nvidia got up here now it used to be one of our smallest positions but we've of course been buying more of them so now they're a little bit bigger glad to see that as well. yeah Nvidia is still leading the pack up a whopping 40% from our cost bases. I'm not going all in on Nvidia\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.9",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Google\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"just barely ahead of Google paler and Tesla. I'm just very happy with Google Amazon Microsoft and meta making up the top four Holdings I could really couldn't ask for much of a better group of stocks there to lead the pack I'm glad that those are our four biggest stocks there for sure. literally our number one largest stock in Google it's actually up the second most out of the entire portfolio at 28% % gains how awesome is that I love to see that some of our biggest stocks performing well love to see that\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 1.0",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Palantir\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"just barely ahead of Google paler and Tesla. another $5 each to Alibaba Disney metronic and Palante here. Tesla and paler also up 20 over 20% each those are obviously smaller positions\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.8",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Tesla\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"just barely ahead of Google paler and Tesla. Tesla and paler also up 20 over 20% each those are obviously smaller positions. I'm not going all in on Tesla\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.8",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Bristol Myers Squibb\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"another $10 going to each of Bristol Meers squib Nvidia and PayPal. look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well. Bristol Myers squib would also be great for their dividend them and BYU are also both down double digits so we're going to have to see if we can lowerer our cost basis on those a little bit in the future\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.7",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Alibaba\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"another $5 each to Alibaba Disney metronic and Palante here\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.5",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Disney\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"another $5 each to Alibaba Disney metronic and Palante here\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.5",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Medtronic\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"another $5 each to Alibaba Disney metronic and Palante here. especially a couple of these dividend stocks like metronic or Extra Space Storage I love both those stocks. look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well. we got to buy more metronic there being negative\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.8",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Microsoft\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"I'm just very happy with Google Amazon Microsoft and meta making up the top four Holdings I could really couldn't ask for much of a better group of stocks there to lead the pack I'm glad that those are our four biggest stocks there for sure. especially Amazon and Microsoft with 17% and 12% gains those are our number two and number three largest Holdings so very happy with that performance\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 1.0",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Meta\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"I'm just very happy with Google Amazon Microsoft and meta making up the top four Holdings I could really couldn't ask for much of a better group of stocks there to lead the pack I'm glad that those are our four biggest stocks there for sure\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 1.0",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Pfizer\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"I do think that fizer might be a little high there at number five so you know something I've talked about in the past I might try to replace that as a top five holding with something that I like a little bit more. look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.3",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Extra Space Storage\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"especially a couple of these dividend stocks like metronic or Extra Space Storage I love both those stocks. look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.9",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Verizon\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well. in the single digits Cisco Verizon those got great dividends love to buy more of those\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.9",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"NextEra Energy\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.9",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Tyson Foods\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"look at these stocks guys I mean I just love them fiser metronic exr Bristol Meers Verizon nexer energy Tyson Foods Cisco I mean some of those stocks have amazing div they've got really big dividends some of them also are very good value stocks so uh definitely will be looking to buy more of those in the coming month as well\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.9",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"VeriSign\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"in the negative performers I mean we got to buy more metronic there being negative and probably some more of like veras sign and PayPal great like value tech stocks in my opinion\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.7",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"AstraZeneca\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"Intel uh in the last video I just mentioned Astro zenica that's a a stock I've been re researching more lately and I really like\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.8",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "},",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "{",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"company\": \"Apple\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"excerpt\": \"who asked what no apple and uh yeah that's uh I'm surprised this is the first time someone's mentioned that or maybe some maybe I missed a comment before but I think that's the first time anyone's mentioned apple look apple is a core stock in my uh is a core stock for many people's portfolios it is also a small holding in my private personal portfolio it's just a small one I'm not the big biggest fan of Apple but a lot of people do like them and you know it's a giant company very profitable so I would not mind at all adding it to this portfolio as well tell you what guys we're going to run we're going to add it to a poll we ask you guys what new stock you want added to the portfolio I'll include Apple I'll let you guys vote for it if Apple gets chosen then we'll add it to the portfolio sound good\",",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"confidence\": 1.0,",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "\"sentiment\": 0.6",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "}",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "]",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  },
+  {
+    "company": "```",
+    "excerpt": "",
+    "confidence": null,
+    "sentiment": null
+  }
+]

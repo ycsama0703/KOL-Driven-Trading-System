@@ -1,0 +1,14 @@
+[
+  {
+    "company": "Vanguard",
+    "excerpt": "the ETF itself is issued usually by a large financial institution something like Vanguard or even Black Rock who also manage the ETFs themselves investing in and out of certain stocks usually within a certain index or a type of field right that that uh pertains to that index",
+    "confidence": 1.0,
+    "sentiment": 0.5
+  },
+  {
+    "company": "Black Rock",
+    "excerpt": "the ETF itself is issued usually by a large financial institution something like Vanguard or even Black Rock who also manage the ETFs themselves investing in and out of certain stocks usually within a certain index or a type of field right that that uh pertains to that index so for example it might be like an ETF focused on internet technology stocks or energy or Finance or even foreign stocks too okay so uh where do these asset managers like Black Rock get all the money to invest in all of these stocks through the ETF",
+    "confidence": 1.0,
+    "sentiment": 0.5
+  }
+]
